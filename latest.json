@@ -1,6 +1,6 @@
 {
-  "version": "2.26.8.20.2",
-  "url": "https://github.com/mindsdb/antontron-releases/releases/download/ui-v2.26.8.20.2/ui-bundle.tar.gz",
-  "sha256": "e5f92e1684586070aa21a623f5e35ff930c72d151325ff3b84ef1d1592fb9342",
-  "shellVersion": "2.26.8.20.2"
+  "version": "2.26.8.23.1",
+  "url": "https://github.com/mindsdb/antontron-releases/releases/download/ui-v2.26.8.23.1/ui-bundle.tar.gz",
+  "sha256": "88d48c8fd59179b39ba9ec665a6b0f7147f5f7e2fc02269a942a5f2c3f062063",
+  "shellVersion": "2.26.8.23.1"
 }
